@@ -9,7 +9,7 @@ pkgver=${_ver}.0
 pkgrel=1
 url="http://mate-desktop.org"
 pkgdesc="MATE Media Tools (GTK3 version)"
-arch=('i686' 'x86_64')
+arch=('i686' 'x86_64' 'armv7h')
 provides=("${_pkgbase}" "${_pkgbase}-gtk3")
 license=('GPL')
 depends=('gtk3' 'libcanberra' 'libmatemixer' 'libunique3' 'mate-desktop>=1.15')
