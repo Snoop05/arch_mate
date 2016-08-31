@@ -1,0 +1,1 @@
+devtools pkgbuild-introspection shellcheck aurutils
